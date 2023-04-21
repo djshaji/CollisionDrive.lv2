@@ -1,0 +1,6 @@
+EXTLD(back_png)
+EXTLD(black_png)
+EXTLD(footsw_png)
+EXTLD(led_red_png)
+EXTLD(tune_blue_png)
+EXTLD(tune_png)
